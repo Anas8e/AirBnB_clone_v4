@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Bellache Anas - [Github](https://github.com/Anas8e)
-
+Otagada Isaac - [Github](https://github.com/Xhicko)
 
 Second part of Airbnb: Joann Vuong
 ## License
